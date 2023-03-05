@@ -1,2 +1,1 @@
-# snakify
 snakify.org
