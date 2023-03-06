@@ -15,3 +15,4 @@ s2: int = int(input('s2: '))
 seconds = (h2 - h1) * 3600 + (m2 - m1) * 60 + (s2 - s1)
 
 print(seconds)
+
