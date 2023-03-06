@@ -1,7 +1,7 @@
 """
 A timestamp is three numbers: a number of hours, minutes and seconds.
 Given two timestamps, calculate how many seconds is between them.
-The moment of the first timestamp occurred before the moment of the second timestamp.
+The moment of the 1_input_print_and_numbers timestamp occurred before the moment of the 2_integer_and_float_numbers timestamp.
 """
 
 h1: int = int(input('h1: '))
