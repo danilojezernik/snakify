@@ -11,7 +11,7 @@ x1: int = int(input('x1: '))
 y1: int = int(input('y1: '))
 x2: int = int(input('x2: '))
 y2: int = int(input('y2: '))
-4
+
 if x2 - x1 <= 1 and y2 - y1 <= 1:
     print('YES')
 else:
