@@ -12,3 +12,5 @@ if a < b:
 elif a >= b:
     for i in range(a, b - 1, -1):
         print(i)
+else:
+    print(a)
